@@ -27,14 +27,3 @@ public class WordFrequencyCounter {
 
 }
 
-WORD FREQUENCY COUNTR OUTPUT:
-
-Word Frequency:
-the: 2
-over: 1
-quick: 1
-lazy: 1
-jumps: 1
-brown: 1
-dog: 1
-fox: 1
